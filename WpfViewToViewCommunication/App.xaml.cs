@@ -2,7 +2,7 @@
 using System.Windows;
 using WpfViewToViewCommunication.EventAggregators;
 using WpfViewToViewCommunication.Services;
-using WpfViewToViewCommunication.ViewModels;
+using WpfViewToViewCommunication.Commands;
 using WpfViewToViewCommunication.Views;
 
 namespace WpfViewToViewCommunication;

@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Windows.Input;
 using WpfViewToViewCommunication.EventAggregators;
 
-namespace WpfViewToViewCommunication.ViewModels;
+namespace WpfViewToViewCommunication.Commands;
 public class PersonDialogViewModel : INotifyPropertyChanged
 {
     private string _name;

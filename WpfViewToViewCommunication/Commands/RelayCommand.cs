@@ -1,6 +1,6 @@
 ﻿using System.Windows.Input;
 
-namespace WpfViewToViewCommunication.ViewModels;
+namespace WpfViewToViewCommunication.Commands;
 
 public class RelayCommand : ICommand
 {

@@ -7,7 +7,7 @@ using WpfViewToViewCommunication.EventAggregators;
 using WpfViewToViewCommunication.Services;
 using WpfViewToViewCommunication.Views;
 
-namespace WpfViewToViewCommunication.ViewModels;
+namespace WpfViewToViewCommunication.Commands;
 public class MainViewModel : INotifyPropertyChanged
 {
     private readonly EventAggregator _eventAggregator;

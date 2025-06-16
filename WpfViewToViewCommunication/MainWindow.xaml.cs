@@ -1,5 +1,5 @@
 ﻿using System.Windows;
-using WpfViewToViewCommunication.ViewModels;
+using WpfViewToViewCommunication.Commands;
 
 namespace WpfViewToViewCommunication;
 
